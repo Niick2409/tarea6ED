@@ -6,13 +6,15 @@
 package Tarea6EDClass;
 
 /**
- *
+ * Método main del programa.
  * @author Niick
  */
 public class Tarea6EDMain {
 
     /**
-     * @param args the command line arguments
+     * Se utiliza para probar el funcionamiento del descuento aplicado 
+     * en una compra.
+     * @param args Argumentos de línea de comandos
      */
     public static void main(String[] args) {
     Tarea6EDClase miCarrito = new Tarea6EDClase();
